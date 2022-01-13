@@ -1,0 +1,20 @@
+distributed system
+relational database
+乐观所如何做
+How to query performance
+types of indexes
+database transaction log a reocrd using sql
+avoid deadlocks
+
+isolation levels
+ and explain
+
+
+sharding and replication
+data structure tree . hashset
+
+cucorrency models in database, proving aware of raise conditions
+
+- think in granular alternatives
+
+production enviornment
